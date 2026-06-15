@@ -95,7 +95,8 @@
 
 ## 5. Data Workflow
 
-```[Health_Dataset CSV exports pulled from WHO website.
+```
+Health_Dataset CSV exports pulled from WHO website.
       ↓
 Loaded into Power BI through Power Query
       ↓
@@ -104,6 +105,7 @@ Fixed formatting issues, trim/capitalize the country column, created custom colu
 DAX: KPI measures, YoY measures, dynamic insights
       ↓
 Three-page Power BI dashboard
+
 ```
 
 1. **Source:** Single CSV file pulled from WHO website containing global infectious disease surveillance data — approximately 850 rows, 15 columns, covering 12 countries and 4 diseases from 2015–2025.
