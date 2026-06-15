@@ -1,4 +1,4 @@
-# [Global STI Disease Surveillance: Identifying Where Intervention Coverage Fails to Match Disease Burden]
+# Global STI Disease Surveillance: Identifying Where Intervention Coverage Fails to Match Disease Burden
 > *Analyzed 11 years of infectious disease surveillance data across 12 countries to identify which populations, regions, and diseases represent the highest-priority gaps between disease burden and treatment access*
 
 ---
